@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.lingjun</groupId>
-    <artifactId>SpringSecurity</artifactId>
+    <artifactId>SpringBoot-SpringSecurityJWT</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringSecurityPractice</name>
     <description>SpringSecurityPractice</description>
